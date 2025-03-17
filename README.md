@@ -1,3 +1,5 @@
+README.md
+
 <h2 align="left">Hi 👋! My name is Jaqueline, I am passionate about technology and I am transitioning my career to the IT field. My goal is to become an Artificial Intelligence Engineer, exploring innovative solutions and impacting the future with AI. 🚀💡</h2>
 
 ###
